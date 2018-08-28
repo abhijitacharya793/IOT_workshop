@@ -7,7 +7,7 @@
 
 //---------------------------------------------------------------
 //Our HTML webpage contents in program memory
-const char MAIN_page[] PROGMEM = R"=====(
+const char MAIN_page[] PROGMEM = R====="(
 <!DOCTYPE html>
 <html>
 <body>
@@ -18,7 +18,7 @@ Click to turn <a href="ledOff">LED OFF</a><br>
 <hr>
 </body>
 </html>
-)=====";
+)"=====;
 //---------------------------------------------------------------
 //---------------------------------------------------------------
 //Our HTML webpage contents in program memory
